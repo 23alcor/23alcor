@@ -7,7 +7,7 @@ Looking for new-grad and internship software engineering roles for 2027. I'm a c
 ## Experience
 
 - **Con Edison**: engineering co-op since Aug 2025. Rewrote a roughly 10-year-old tool whose database had been deprecated. It now screens ~30–40 returned units a week against live data for fault testing, and it's documented and packaged so anyone can run it without writing code.
-- **Manhattan University**: undergraduate researcher since Feb 2025. I lead a team of undergraduate researchers building PyTorch training and data pipelines for adversarial ML on industrial control system data, and since May 2025 I've also worked on distributed GPU training research.
+- **Manhattan University**: undergraduate researcher since Feb 2025, working across ML security and distributed systems. I lead a team of undergraduate researchers building PyTorch training and data pipelines for adversarial ML on industrial control system data, and I also research distributed GPU training.
 
 ## Software projects
 
