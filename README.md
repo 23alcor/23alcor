@@ -16,7 +16,6 @@ Looking for new-grad and internship software engineering roles for 2027. I'm a c
 - [Repo](https://github.com/Jfrancisjr21/xrpl-hackathon) · [Live](https://confiance.alcoberlabs.xyz) · **Confiance**: lending app on the XRP Ledger Devnet, built by a team of five in 36 hours at the AI & Fintech XRP Ledger Hackathon in NYC. I built the API and risk engine: OFAC sanctions screening, a score out of 100 and risk-based pricing.
 - [Repo](https://github.com/23alcor/Usage-Token-Visualizer) · **Token Usage**: early macOS prototype that shows how much AI subscription capacity you have left before a big task. Rust collector with a React dashboard in a Tauri shell.
 - [Repo](https://github.com/23alcor/Notion-Webhook-server) · **Notion Webhook Server**: FastAPI backend that reacts to Notion webhooks, summarizes notes with OpenAI and keeps task and calendar blocks current. Runs 24/7 on a Raspberry Pi under systemd, behind a Cloudflare Tunnel.
-- [Repo](https://github.com/23alcor/facial-recognition-door-lock) · **Facial recognition door lock**: two-person course project. On-device OpenCV recognition on a Raspberry Pi drives a servo lock, with no cloud and no face data leaving the device.
 - [Repo](https://github.com/23alcor/capstone-ui) · **capstone-ui**: interactive IEEE 13-bus feeder explorer for a HIL grid fault-detection capstone.
 
 ## Research background
