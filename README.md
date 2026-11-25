@@ -17,7 +17,7 @@ Looking for new-grad and internship software engineering roles for 2027. I'm a c
 - [Repo](https://github.com/23alcor/Usage-Token-Visualizer) · **Token Usage**: early macOS prototype that shows how much AI subscription capacity you have left before a big task. Rust collector with a React dashboard in a Tauri shell.
 - [Repo](https://github.com/23alcor/capstone-ui) · [Live](https://capstone.alcoberlabs.xyz) · **capstone-ui**: interactive IEEE 13-bus feeder explorer for a HIL grid fault-detection capstone.
 
-## Research background
+## Research
 
 - [Write-up](https://portfolio.alcoberlabs.xyz/research/hpc-gpu-training/) · **Distributed systems**: studied where multi-GPU training loses time across 803 measurements, from 1 to 64 GPUs, on Bridges-2 through NSF ACCESS. Spreading the same GPUs across more nodes can inflate communication cost 6.4×. Paper in draft.
 - [Paper](https://ieeexplore.ieee.org/document/11393828) · [Write-up](https://portfolio.alcoberlabs.xyz/research/adversarial-ics/) · **ML security**: first-author paper at IEEE CCWC 2026 on defending industrial control system intrusion detection from adversarial attacks. A GAN purifier sits in front of a frozen detector, evaluated against FGSM, PGD, DeepFool, C&W and JSMA.
