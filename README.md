@@ -24,4 +24,4 @@ Looking for new-grad and internship software engineering roles for 2027. I'm a c
 
 ## Stack
 
-Python, TypeScript, SQL · FastAPI, Next.js, React · Cloudflare Workers, Linux · PyTorch DDP, NCCL, CUDA, SLURM
+C++, Python, TypeScript, SQL · FastAPI, Next.js, React · Cloudflare Workers, Linux · PyTorch DDP, NCCL, CUDA, SLURM
